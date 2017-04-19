@@ -1,0 +1,2 @@
+# ShittyCode
+Very shitty code.
